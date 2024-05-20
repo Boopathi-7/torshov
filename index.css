@@ -1,0 +1,98 @@
+.main-container{
+    background-color:  #d0f0c0  ;
+   padding: 10px 20% 10px 20%;
+}
+.container{
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    padding:2px 2px 2px 2px; 
+
+}
+.sub-container{
+    /* border: 1px solid black ; */
+    border-radius: 10px;
+    margin:5px 5px 5px 5px ;
+
+}
+.head{
+    /* text-align:center; */
+    /* background-color: black; */
+    background-image: url(college.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+.head-contend{
+    padding-top: 70px;
+    text-align: center;
+}
+#hint1{
+    background-color:#50A9CD  ;
+    color: white;
+    padding: 5px 15px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#para1{
+    background-color: #0E3E64 ;
+    color: white;
+    padding: 5px 15px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center{
+    text-align: center;
+    background-color: #addfad  ;
+    border: 1px solid black;
+}
+.pho{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+#hint{
+    padding-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+#hint2{
+    font-weight: bold;
+    font-size: medium;
+}
+.flexbox{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+/* .container{
+    border: 1px solid black;
+} */
+.footer-container{
+    margin-top: 10%;
+    margin-bottom:10% ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 210px;
+    background-color: #7FE1DA ;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+#footer-img{
+    border: 1PX SOLID black;
+    margin: 5px;
+}
+#pho1{
+    height: 200px;
+    width: 200px;
+}
+.footer-div{
+    text-align: center;
+}
+
+
